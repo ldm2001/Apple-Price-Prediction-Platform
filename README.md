@@ -9,7 +9,7 @@
 기상청 기상 데이터와 Kamis(농수산유통정보) 오픈 API를 활용하여 사과 가격의 변동 추이를 분석하고 예측
 
 ### Tech Stacks
-- **Language:** `Python 3.x` (Jupyter Notebook)
+- **Language:** `Python 3` (Jupyter Notebook)
 - **Library:** `Pandas`, `Scikit-learn`, `Flask`
 - **Model:** 경사 하강법(Gradient Descent), MSE(Mean Squared Error)
 - **Tools:** VS Code, Anaconda

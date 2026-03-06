@@ -131,7 +131,7 @@ PHP와 MySQL 기반으로 회원 가입, 로그인, 게시판, 댓글, 관리자
 ```bash
 cd ./apple-predict-web
 python app.py
-
+```
 ![APP](https://github.com/user-attachments/assets/f12b9cf1-7d1b-48f7-a2ce-2d2311a947d1)
 ![Board](https://github.com/user-attachments/assets/b4b7e7fb-5ad5-4959-be27-ae428b0030c5)
 
